@@ -7,6 +7,8 @@
 
 ![Luidy87 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luidy87&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Luidy87/github-readme-stats)
+
  ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="" width="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
