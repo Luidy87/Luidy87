@@ -7,7 +7,7 @@
 
 ![Luidy87 GitHub stats](https://github-readme-stats.vercel.app/api?username=Luidy87&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Luidy87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Tecnologias utilizadas
 <div style="display: inline_block"><br>
